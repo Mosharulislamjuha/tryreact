@@ -4,7 +4,7 @@ import Logo from './Component/Logo/Logo';
 
 import Navbar from './Component/Navbar/Navbar';
 import Footer from './Component/Footer/Footer';
-
+import Contact from './Component/Contact/Contact';
 
 
 function App() {
@@ -13,6 +13,7 @@ function App() {
 
       <Logo></Logo>
       <Navbar></Navbar>
+      <Contact></Contact>
       <Footer></Footer>
       
       
